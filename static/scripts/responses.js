@@ -12,6 +12,15 @@ function getBotResponse(input) {
 } else if (input == "Who are you?") {
     return "I Am Gian The Bot💀"; 
 }
+  else if (input == "Hello") {
+    return "Hey Sir"; 
+}
+    else if (input == "Hi") {
+    return "Hey Sir"; 
+}
+    else if (input == "Hey") {
+    return "Hey Sir"; 
+}
 else if (input == "who are you?") {
     return "I am your truly Gian the bot(❁´◡`❁)"; 
 } else if (input == "who are you") {
@@ -51,7 +60,7 @@ else if (input == "install python") {
     "Step 4 − Verify Python is installed on Windows. ..."+
     "Step 5 − Verify Pip was installed."];
 }
-else if (input == "How to download python?") {
+else if (input == "How to install python?") {
     window.open("https://www.python.org/","_bank")
     return ["Step 1 − Select Version of Python to Install. ..." +
     "Step 2 − Download Python Executable Installer. ..."+
@@ -59,7 +68,7 @@ else if (input == "How to download python?") {
     "Step 4 − Verify Python is installed on Windows. ..."+
     "Step 5 − Verify Pip was installed."];
 }
-else if (input == "how to download python?") {
+else if (input == "how to install python?") {
     window.open("https://www.python.org/","_bank")
     return ["Step 1 − Select Version of Python to Install. ..." +
     "Step 2 − Download Python Executable Installer. ..."+
@@ -67,7 +76,7 @@ else if (input == "how to download python?") {
     "Step 4 − Verify Python is installed on Windows. ..."+
     "Step 5 − Verify Pip was installed."];
 }
-else if (input == "how to download python") {
+else if (input == "how to install python") {
     window.open("https://www.python.org/","_bank")
     return ["Step 1 − Select Version of Python to Install. ..." +
     "Step 2 − Download Python Executable Installer. ..."+
@@ -75,7 +84,7 @@ else if (input == "how to download python") {
     "Step 4 − Verify Python is installed on Windows. ..."+
     "Step 5 − Verify Pip was installed."];
 }
-else if (input == "How to download python") {
+else if (input == "How to install python") {
     window.open("https://www.python.org/","_bank")
     return ["Step 1 − Select Version of Python to Install. ..." +
     "Step 2 − Download Python Executable Installer. ..."+
@@ -83,15 +92,15 @@ else if (input == "How to download python") {
     "Step 4 − Verify Python is installed on Windows. ..."+
     "Step 5 − Verify Pip was installed."];
 }
-else if (input == "Step to download python") {
+else if (input == "Steps to install python") {
     window.open("https://www.python.org/","_bank")
     return ["Step 1 − Select Version of Python to Install. ..." +
-    "Step 2 − Download Python Executable Installer. ..."+
+    "Step 2 − install Python Executable Installer. ..."+
     "Step 3 − Run Executable Installer And Check All Boxes. ..."+
     "Step 4 − Verify Python is installed on Windows. ..."+
     "Step 5 − Verify Pip was installed."];
 }
-else if (input == "step to download python") {
+else if (input == "steps to install python") {
     window.open("https://www.python.org/","_bank")
     return ["Step 1 − Select Version of Python to Install. ..." +
     "Step 2 − Download Python Executable Installer. ..."+
@@ -313,6 +322,7 @@ else if (input == "about you") {
     window.open("https://github.com/ironzef/GianChatBot","_bank")
     return"okay take it!"
  }
+ 
     else {
         return "Try asking something else I am Still Thinking About it! OR type Help";
     }
