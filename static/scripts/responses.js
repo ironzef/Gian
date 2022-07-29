@@ -293,13 +293,11 @@ else if (input == "about you") {
     return"Good evening"
  }
  else if (input == "play killer song") {
-    window.open("https://youtu.be/XVg6XjbcwoA","_bank")
-    window.open("https://youtu.be/4izNgBvab2o","_bank")
+    window.open("https://youtu.be/V0Qnt23V2zY","_bank")
     return"okay!"
  }
  else if (input == "Play killer song") {
-    window.open("https://youtu.be/XVg6XjbcwoA","_bank")
-    window.open("https://youtu.be/4izNgBvab2o","_bank")
+    window.open("https://youtu.be/V0Qnt23V2zY","_bank")
     return"okay!"
  }
  else if (input == "jokes") {
