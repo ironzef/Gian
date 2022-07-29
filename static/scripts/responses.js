@@ -314,11 +314,11 @@ else if (input == "about you") {
  else if (input == "Help") {
     return"Commands: Good morning/evening/night, About You, Who made you, Install python, install VScode, steps to install python, Steps to install VScode, play song, play party song, play sad song, play killer song, your codes, jokes And many more basic stuff.  "
  }  
- else if (input == "your codes ") {
+ else if (input == "your codes") {
     window.open("https://github.com/ironzef/GianChatBot","_bank")
     return"okay take it!"
  }
- else if (input == "Your codes ") {
+ else if (input == "Your codes") {
     window.open("https://github.com/ironzef/GianChatBot","_bank")
     return"okay take it!"
  }
